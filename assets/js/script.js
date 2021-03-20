@@ -2,7 +2,7 @@
 function countV() {
 
     let vwlNum = 0;
-    let vog1 = "a";
+    let vog1 = ["a", "A"];
     let vog2 = "e";
     let vog3 = "i";
     let vog4 = "o";
